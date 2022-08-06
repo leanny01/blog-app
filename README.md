@@ -9,4 +9,24 @@ I have built this app with a monolith approach in mind. I needed the fastest way
 - Backend: `Sails.js`
 - Database:`Mongo.js`
 
+## Setup
+
+```
+# Get the latest stable release of Sails
+$ npm install sails -g
+```
+
+```
+# clone the app 
+$ git clone https://github.com/leanny01/blog-app.git
+
+# cd into the new folder
+cd blog-app
+```
+
+```
+# fire up the server
+sails lift
+```
+
 
