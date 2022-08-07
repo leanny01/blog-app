@@ -22,6 +22,9 @@ $ git clone https://github.com/leanny01/blog-app.git
 
 # cd into the new folder
 cd blog-app
+
+# install dependencies
+npm i
 ```
 
 ```
